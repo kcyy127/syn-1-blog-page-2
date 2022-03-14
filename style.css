@@ -90,6 +90,7 @@ p.img a {
 
 .content {
     margin: auto;
+    min-width: min(32em, 90%);
 }
 
 .content p {
